@@ -108,9 +108,7 @@ airbnb-clone/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 👏 Acknowledgments
 
@@ -118,7 +116,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Original design by Airbnb team
 - Built as a learning project to demonstrate modern web development practices
 
-## 🔗 Links
+## 🔗 Links (under maintenance)
 
 - [Live Demo](https://your-demo-link.com)
 - [Original Repository](https://github.com/edwintantawi/airbnb-web-clone)
