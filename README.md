@@ -42,20 +42,15 @@ npm install
 yarn install
 ```
 
-3. Set up environment variables:
-Create a `.env.local` file in the root directory and add your environment variables:
-```env
-NEXT_PUBLIC_MAPBOX_TOKEN=your_mapbox_token_here
-```
 
-4. Run the development server:
+3. Run the development server:
 ```bash
 npm run dev
 # or
 yarn dev
 ```
 
-5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
 ## 🚀 Building for Production
 
