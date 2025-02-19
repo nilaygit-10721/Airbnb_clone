@@ -114,7 +114,6 @@ airbnb-clone/
 ## 🔗 Links (under maintenance)
 
 - [Live Demo](https://your-demo-link.com)
-- [Original Repository](https://github.com/edwintantawi/airbnb-web-clone)
 - [Portfolio](https://your-portfolio.com)
 
 ---
