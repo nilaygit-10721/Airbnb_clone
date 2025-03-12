@@ -86,24 +86,7 @@ const AppFooter = () => {
         </div>
         <div className="flex flex-col items-center justify-between py-5 text-sm text-gray-400 border-t border-gray-200 lg:py-6 lg:flex-row">
           <div className="flex flex-col items-center order-last lg:flex-row lg:order-none">
-            <span className="mr-0 text-center lg:mr-4">© 2024 Airbnb, Inc.</span>
-            <ul className="flex space-x-6 list-disc">
-              <li className="hover:underline">
-                <Link href="/">
-                  <a>Privacy</a>
-                </Link>
-              </li>
-              <li className="hover:underline">
-                <Link href="/">
-                  <a>Terms</a>
-                </Link>
-              </li>
-              <li className="hover:underline">
-                <Link href="/">
-                  <a>Sitemap</a>
-                </Link>
-              </li>
-            </ul>
+            <span className="mr-0 text-center lg:mr-4">© 2024 Airbnb.</span>
           </div>
           <div className="flex flex-col items-center mb-4 space-y-4 lg:space-y-0 lg:flex-row lg:space-x-12 lg:mb-0">
             <ul className="flex items-center space-x-4">
