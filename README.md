@@ -24,26 +24,29 @@ A fully responsive Airbnb clone built with modern web technologies. This project
 ## 📋 Prerequisites
 
 Make sure you have the following installed:
+
 - Node.js (v14 or higher)
 - npm or yarn package manager
 
 ## 🔧 Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/yourusername/airbnb-clone.git
 cd airbnb-clone
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 # or
 yarn install
 ```
 
-
 3. Run the development server:
+
 ```bash
 npm run dev
 # or
@@ -55,6 +58,7 @@ yarn dev
 ## 🚀 Building for Production
 
 1. Create a production build:
+
 ```bash
 npm run build
 # or
@@ -62,6 +66,7 @@ yarn build
 ```
 
 2. Start the production server:
+
 ```bash
 npm start
 # or
@@ -71,14 +76,18 @@ yarn start
 ## 🔧 Common Issues and Solutions
 
 ### OpenSSL Error on Build
+
 If you encounter an OpenSSL error during build, set the Node options:
+
 ```bash
 set NODE_OPTIONS=--openssl-legacy-provider  # Windows
 export NODE_OPTIONS=--openssl-legacy-provider  # Unix
 ```
 
 ### Outdated Browserslist
+
 If you see a browserslist warning, update the database:
+
 ```bash
 npx browserslist@latest --update-db
 ```
@@ -103,8 +112,6 @@ airbnb-clone/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 ## 👏 Acknowledgments
 
 - Inspired by [Airbnb](https://www.airbnb.com/)
@@ -117,4 +124,5 @@ airbnb-clone/
 - [Portfolio](https://your-portfolio.com)
 
 ---
+
 ⭐️ Star this repo if you find it helpful!
