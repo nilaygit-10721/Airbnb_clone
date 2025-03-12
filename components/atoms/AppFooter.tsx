@@ -86,19 +86,8 @@ const AppFooter = () => {
         </div>
         <div className="flex flex-col items-center justify-between py-5 text-sm text-gray-400 border-t border-gray-200 lg:py-6 lg:flex-row">
           <div className="flex flex-col items-center order-last lg:flex-row lg:order-none">
-            <span className="mr-0 text-center lg:mr-4">© 2021 Airbnb, Inc.</span>
-            <span className="mb-2 mr-0 lg:mr-8 lg:mb-0">
-              | Clone by{' '}
-              <a
-                href="https://edwintantawi.vercel.app"
-                target="_blank"
-                rel="noreferrer"
-                className="font-medium text-primary hover:underline"
-              >
-                Edwin Tantawi
-              </a>{' '}
-              |
-            </span>
+            <span className="mr-0 text-center lg:mr-4">© 2024 Airbnb, Inc.</span>
+            
             <ul className="flex space-x-6 list-disc">
               <li className="hover:underline">
                 <Link href="/">
